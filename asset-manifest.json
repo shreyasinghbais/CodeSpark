@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeSpark/static/css/main.dcadb96f.css",
+    "main.js": "/CodeSpark/static/js/main.c708c219.js",
+    "index.html": "/CodeSpark/index.html",
+    "main.dcadb96f.css.map": "/CodeSpark/static/css/main.dcadb96f.css.map",
+    "main.c708c219.js.map": "/CodeSpark/static/js/main.c708c219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcadb96f.css",
+    "static/js/main.c708c219.js"
+  ]
+}
